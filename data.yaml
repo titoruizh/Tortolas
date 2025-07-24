@@ -1,0 +1,14 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8
+names: 
+  - camioneta
+  - estructura
+  - generador
+  - tuberia
+  - antena
+  - piezometro
+  - retroexcavadora
+  - estructura2
