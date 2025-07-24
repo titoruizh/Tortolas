@@ -1,8 +1,5 @@
 streamlit
 ultralytics
 Pillow
-os
-base64
-PIL
 numpy
-yaml
+PyYAML
